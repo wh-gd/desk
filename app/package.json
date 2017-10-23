@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "productName": "",
+  "version": "0.0.12",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron src/main.js"
+  },
+  "author": "王辉",
+  "dependencies": {
+  }
+}

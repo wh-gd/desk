@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+dist-osx/
+dist-win/
+bak/
+installer/
+build/
+tmp/
+app/node_modules/
+app/ffmpeg-lib-node/build/
+app/ffmpeg-lib-node/node_modules/
+npm-debug.log
+selenium-debug.log
+*.[o|node]
+*.node
